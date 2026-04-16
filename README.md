@@ -87,33 +87,26 @@ ps aux | grep engine
 
 ## 3. Demo Screenshots
 
-> **Replace the placeholders below with your actual screenshots.**
+<img width="1007" height="521" alt="Screenshot 2026-04-16 at 7 56 07 PM" src="https://github.com/user-attachments/assets/794482df-9a2e-4ec1-9b5e-8e36f2e4fe91" />
 
-**Screenshot 1 — Multi-container supervision**
-> `[INSERT SCREENSHOT: two containers running under one supervisor]`
 
-**Screenshot 2 — ps output / metadata tracking**
-> `[INSERT SCREENSHOT: output of sudo ./engine ps]`
+  <img width="1399" height="727" alt="Screenshot 2026-04-16 at 7 55 22 PM" src="https://github.com/user-attachments/assets/dbbc59a9-a3fe-4897-b9ef-028611f4bef0" />
 
-**Screenshot 3 — Bounded-buffer logging**
-> `[INSERT SCREENSHOT: sudo ./engine logs alpha showing captured output]`
+<img width="1260" height="191" alt="Screenshot 2026-04-16 at 7 52 11 PM" src="https://github.com/user-attachments/assets/49c16aa7-f68a-4c57-bfdb-c1d5d9149375" />
 
-**Screenshot 4 — CLI and IPC**
-> `[INSERT SCREENSHOT: start command issued, supervisor responding]`
+<img width="1305" height="535" alt="Screenshot 2026-04-16 at 7 51 38 PM" src="https://github.com/user-attachments/assets/3e3ed28d-d8d8-45b6-a596-98f1554ad5c4" />
 
-**Screenshot 5 — Soft-limit warning**
-> `[INSERT SCREENSHOT: dmesg showing "WARNING" line when RSS > soft limit]`
+<img width="1251" height="394" alt="Screenshot 2026-04-16 at 7 45 08 PM" src="https://github.com/user-attachments/assets/72c57fa5-587b-4be4-af60-e3e537328f40" />
 
-**Screenshot 6 — Hard-limit enforcement**
-> `[INSERT SCREENSHOT: dmesg showing "KILLING" line; ps showing mem_killed state]`
+<img width="1351" height="281" alt="Screenshot 2026-04-16 at 7 39 17 PM" src="https://github.com/user-attachments/assets/3729414e-3357-4718-9cd8-327490b4f77d" />
 
-**Screenshot 7 — Scheduling experiment**
-> `[INSERT SCREENSHOT: top or time output comparing hi vs low priority containers]`
+<img width="1287" height="298" alt="Screenshot 2026-04-16 at 7 35 20 PM" src="https://github.com/user-attachments/assets/e20f8bb6-e4af-419b-9889-493658143efd" />
 
-**Screenshot 8 — Clean teardown**
-> `[INSERT SCREENSHOT: ps aux showing no engine processes after shutdown]`
 
----
+<img width="1104" height="508" alt="Screenshot 2026-04-16 at 7 34 37 PM" src="https://github.com/user-attachments/assets/8dbdfa07-e067-4a08-99a8-49d00403cba0" />
+
+
+
 
 ## 4. Engineering Analysis
 
